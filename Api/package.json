@@ -1,0 +1,16 @@
+{
+  "name": "hackathon",
+  "version": "1.0.0",
+  "description": "Hackillinois backend",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Aviral Singh Halsi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2",
+    "mongodb": "^5.1.0",
+    "mongoose": "^6.10.0"
+  }
+}
